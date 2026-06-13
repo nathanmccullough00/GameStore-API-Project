@@ -1,5 +1,3 @@
-using gameStore.Api.Models;
-
 namespace GameStore.Api.Models;
 
 // Data model is going to contain all of the classes
